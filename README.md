@@ -17,7 +17,7 @@
 To get a local copy of the program running, follow these simple steps
 
 ## Front end link
-[Front end](https://github.com/wale-prog/hello-react-front-end/pull/1)
+Link to the [Front end](https://github.com/wale-prog/hello-react-front-end/pull/1) pull request
 
 ### Prerequisites
 - IDE, preferably Visual Studio Code
